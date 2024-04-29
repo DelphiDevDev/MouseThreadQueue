@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.918,C:\Users\Dmitry\Desktop\Mouse\Mouse.Types.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\Dmitry\Desktop\Mouse\TThreadB.pas=C:\Users\Dmitry\Desktop\Mouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.432,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,C:\Users\Dmitry\Desktop\Mouse\Mouse.Types.pas=C:\Users\Dmitry\Desktop\Mouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,C:\Users\Dmitry\Desktop\Mouse\MouseUnit.pas=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.547,C:\Users\Dmitry\Desktop\Mouse\Mouse.dproj=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,C:\Users\Dmitry\Desktop\Mouse\MouseUnit.dfm=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=C:\Users\Dmitry\Desktop\Mouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,=C:\Users\Dmitry\Desktop\Mouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,=C:\Users\Dmitry\Desktop\Mouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\Dmitry\Desktop\Mouse\TThreadA.pas=C:\Users\Dmitry\Desktop\Mouse\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
